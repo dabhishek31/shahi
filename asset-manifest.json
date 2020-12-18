@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/shahi/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/shahi/static/js/main.db12cfd3.chunk.js",
+    "main.js.map": "/shahi/static/js/main.db12cfd3.chunk.js.map",
+    "runtime-main.js": "/shahi/static/js/runtime-main.2b69ff3c.js",
+    "runtime-main.js.map": "/shahi/static/js/runtime-main.2b69ff3c.js.map",
+    "static/js/2.a24aab1c.chunk.js": "/shahi/static/js/2.a24aab1c.chunk.js",
+    "static/js/2.a24aab1c.chunk.js.map": "/shahi/static/js/2.a24aab1c.chunk.js.map",
+    "static/js/3.06acaa73.chunk.js": "/shahi/static/js/3.06acaa73.chunk.js",
+    "static/js/3.06acaa73.chunk.js.map": "/shahi/static/js/3.06acaa73.chunk.js.map",
+    "index.html": "/shahi/index.html",
+    "static/css/main.ab7136cd.chunk.css.map": "/shahi/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.a24aab1c.chunk.js.LICENSE.txt": "/shahi/static/js/2.a24aab1c.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/shahi/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2b69ff3c.js",
+    "static/js/2.a24aab1c.chunk.js",
+    "static/css/main.ab7136cd.chunk.css",
+    "static/js/main.db12cfd3.chunk.js"
+  ]
+}
