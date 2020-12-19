@@ -1,14 +1,13 @@
-import './App.css';
+import "./App.css";
 
-import Header from './components/header/header';
-import {MainWrapper} from './app_style';
+import Header from "./components/header/header";
+import { MainWrapper } from "./app_style";
 
 function App() {
   return (
-    <MainWrapper>
-
-      <Header />
-    </MainWrapper>
+      <MainWrapper>
+        <Header />
+      </MainWrapper>
   );
 }
 
