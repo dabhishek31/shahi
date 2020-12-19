@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/shahi/static/css/main.ea1455b2.chunk.css",
-    "main.js": "/shahi/static/js/main.50891126.chunk.js",
-    "main.js.map": "/shahi/static/js/main.50891126.chunk.js.map",
+    "main.js": "/shahi/static/js/main.f9823275.chunk.js",
+    "main.js.map": "/shahi/static/js/main.f9823275.chunk.js.map",
     "runtime-main.js": "/shahi/static/js/runtime-main.6ee1f876.js",
     "runtime-main.js.map": "/shahi/static/js/runtime-main.6ee1f876.js.map",
     "static/js/2.6f64e632.chunk.js": "/shahi/static/js/2.6f64e632.chunk.js",
@@ -20,6 +20,6 @@
     "static/js/runtime-main.6ee1f876.js",
     "static/js/2.6f64e632.chunk.js",
     "static/css/main.ea1455b2.chunk.css",
-    "static/js/main.50891126.chunk.js"
+    "static/js/main.f9823275.chunk.js"
   ]
 }
