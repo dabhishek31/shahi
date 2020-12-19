@@ -14,6 +14,9 @@ import {
   Flex,
   LinksContainer,
   HeadingTextLogo,
+  SocialHandles,
+  MainHeadingContainer,
+  MobileViewLinks,
 } from "./style.js";
 import shahiTour from "../../assets/images/shahiTour.png";
 import shahiCaterer from "../../assets/images/shahicaterer.png";
@@ -41,44 +44,39 @@ export default function Header() {
               <LogoImage src={shahiTour} />
             </Flex>
           </HeadingTextLogo>
+          
         </HeaderContainer>
+        <MobileViewLinks>
+            <Link>Gallery</Link>
+            <Link>About Us</Link>
+          </MobileViewLinks>  
+          <MobileViewLinks>
+            <Link>Services</Link>
+            <Link>Contact Us</Link>
+          </MobileViewLinks> 
         <HeaderBodyContainer>
-          <OnlyFlex style={{ justifyContent: "center", marginTop: "20vh" }}>
-            <div
-              style={{
-                padding: "40px 40px",
-                textAlign: "center",
-                backgroundColor: "white",
-                borderRadius: "10px",
-                opacity: 0.8,
-              }}
-            >
+          <OnlyFlex style={{ justifyContent: "center" }}>
+            <MainHeadingContainer>
               <CursiveText>Welcome To</CursiveText>
               <HeadingText>SHAHI EVENTS & TOUR MANAGEMENT</HeadingText>
               <CursiveText>Make your dream come true</CursiveText>
-            </div>
+            </MainHeadingContainer>
           </OnlyFlex>
-          <div
-            style={{
-              position: "absolute",
-              right: 60,
-              top: "35vh",
-            }}
-          >
-            <div style={{ width: 60 }}>
+          <SocialHandles>
+            <div>
               <img src={facebook} />
             </div>
 
-            <div style={{ width: 60 }}>
+            <div>
               <img src={instagram} />
             </div>
-            <div style={{ width: 60 }}>
+            <div>
               <img src={youtube} />
             </div>
-            <div style={{ width: 60 }}>
+            <div>
               <img src={whatsapp} />
             </div>
-          </div>
+          </SocialHandles>
         </HeaderBodyContainer>
       </BackgroundImage>
     </Wrapper>
