@@ -41,7 +41,7 @@ export const MainHeadingContainer = styled.div`
     background-color: white;
     border-radius: 6px;
     opacity: 1;
-    top: 35vh;
+    top: 30vh;
     border: solid 1px black;
   }
 `;
