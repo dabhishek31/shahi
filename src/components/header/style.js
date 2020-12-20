@@ -4,6 +4,10 @@ export const Wrapper = styled.div`
   position: relative;
   height: 100vh;
   width: 100%;
+  @media (min-width: 320px) and (max-width: 480px) {
+   
+    height: 300px;
+  }
 `;
 
 export const Flex = styled.div`

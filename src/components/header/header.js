@@ -66,7 +66,6 @@ export default function Header() {
             <div>
               <img src={facebook} />
             </div>
-
             <div>
               <img src={instagram} />
             </div>
